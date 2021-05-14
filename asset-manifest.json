@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/timer-for-itop/static/css/main.61d6efa5.chunk.css",
+    "main.js": "/timer-for-itop/static/js/main.e3451ace.chunk.js",
+    "main.js.map": "/timer-for-itop/static/js/main.e3451ace.chunk.js.map",
+    "runtime-main.js": "/timer-for-itop/static/js/runtime-main.cd416f01.js",
+    "runtime-main.js.map": "/timer-for-itop/static/js/runtime-main.cd416f01.js.map",
+    "static/js/2.9a862086.chunk.js": "/timer-for-itop/static/js/2.9a862086.chunk.js",
+    "static/js/2.9a862086.chunk.js.map": "/timer-for-itop/static/js/2.9a862086.chunk.js.map",
+    "static/js/3.f8586780.chunk.js": "/timer-for-itop/static/js/3.f8586780.chunk.js",
+    "static/js/3.f8586780.chunk.js.map": "/timer-for-itop/static/js/3.f8586780.chunk.js.map",
+    "index.html": "/timer-for-itop/index.html",
+    "static/css/main.61d6efa5.chunk.css.map": "/timer-for-itop/static/css/main.61d6efa5.chunk.css.map",
+    "static/js/2.9a862086.chunk.js.LICENSE.txt": "/timer-for-itop/static/js/2.9a862086.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd416f01.js",
+    "static/js/2.9a862086.chunk.js",
+    "static/css/main.61d6efa5.chunk.css",
+    "static/js/main.e3451ace.chunk.js"
+  ]
+}
